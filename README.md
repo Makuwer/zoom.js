@@ -16,7 +16,7 @@ https://fat.github.io/zoom.js
 
 2. zoom.js is dependent on [transition.js file](https://raw.github.com/twbs/bootstrap/master/js/transition.js) from Bootstrap, so make sure to include that as well.
 
-  ```html
+  ```htmlddd
   <script src="js/transition.js"></script>
   ```
 
