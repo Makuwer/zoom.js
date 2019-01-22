@@ -16,7 +16,7 @@ https://fat.github.io/zoom.js
 
 2. zoom.js is dependent on [transition.js file](https://raw.github.com/twbs/bootstrap/master/js/transition.js) from Bootstrap, so make sure to include that as well.
 
-  ```htmlddd
+  ```html
   <script src="js/transition.js"></script>
   ```
 
@@ -44,3 +44,6 @@ zoom.js should (in theory) work in all relevant browsers (ie9+). If not, create 
 ### Who
 
 Written by <a href="//twitter.com/fat">@fat</a>, made better by you.
+
+
+new line
